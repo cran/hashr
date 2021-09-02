@@ -1,13 +1,13 @@
-4afd83f24d9696ee7a153e03e8dd7036 *DESCRIPTION
+ab1d7bd2e5577cd38cabbd110c134d72 *DESCRIPTION
 5aaa920edebe282ece6866860cb00d9b *NAMESPACE
-ef90fb277f4a74d4df47123ac0fc46d6 *NEWS
+2b3a88c17d232fbf94d6b657f6747b09 *NEWS
 efb2367195ca05c3b0bb2b3e5041fce3 *R/hash.R
 a6f6d3fb7c73b1da95bfaaaa90a110ad *R/utils.R
 95a5a0155a08c521f6d636509163c16b *inst/tinytest/test_hash.R
 fa1e4ad04fe71d6ceea32f415668bb53 *man/hash.Rd
 b8caf47c1da3c3a6b0a99eacee5f7ba0 *man/hashr-package.Rd
 4e95da77024f1ca60e63ce4aabf063c1 *src/Makevars
-689280c28fa690e003246e2adee5280a *src/R_hash.c
+166c2b1b8e476577e8288ee107d4caf4 *src/R_hash.c
 91626fea2d992683115c2d232e40be10 *src/R_register_native.c
 6399266ca442d83a895fa1a4ef6304b1 *src/sfh.c
 5e56fb74fb8b87dc092882515493f96b *src/sfh.h
